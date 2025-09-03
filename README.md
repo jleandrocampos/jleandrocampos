@@ -13,5 +13,5 @@ Tenho experiência no desenvolvimento de aplicações completas — do frontend 
 ---
 
 ## 🌐 Contato
-- [LinkedIn](www.linkedin.com/in/leandro-campos0)  
-- [GitHub](https://github.com/jleandrocampos)  
+- [LinkedIn](www.linkedin.com/in/leandro-campos0)
+- [GitHub](https://github.com/jleandrocampos)
