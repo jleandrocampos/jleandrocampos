@@ -60,8 +60,8 @@ Uma solução completa composta por App Mobile, Painel de Gestão e Backend.
 | Projeto | Descrição |
 | :--- | :--- |
 | **[react-native-orientation-forced](https://github.com/jleandrocampos/react-native-orientation-forced)** | **Biblioteca Open Source**. Módulo nativo para React Native que força a orientação da tela (Portrait/Landscape).<br>🛠️ *Tech:* **Java, Objective-C, Bridge React Native**. |
-| **TauriReaderNFC** | Aplicação desktop para leitura e interação com dispositivos NFC.<br>🛠️ *Tech:* **Tauri, Rust, JavaScript**.<br>✨ *Destaque:* Integração de hardware com webview. |
-| **Nubank Analysis Invoice** | Ferramenta de análise de dados para faturas de cartão de crédito.<br>🛠️ *Tech:* **Python, Pandas, Data Analysis**.<br>✨ *Destaque:* Automação e processamento de dados financeiros. |
+| **[TauriReaderNFC](https://github.com/jleandrocampos/tauriReaderNFC)** | Aplicação desktop para leitura e interação com dispositivos NFC.<br>🛠️ *Tech:* **Tauri, Rust, JavaScript**.<br>✨ *Destaque:* Integração de hardware com webview. |
+| **[Nubank Analysis Invoice](https://github.com/jleandrocampos/nubank_analysis_invoice)** | Ferramenta de análise de dados para faturas de cartão de crédito.<br>🛠️ *Tech:* **Python, Pandas, Data Analysis**.<br>✨ *Destaque:* Automação e processamento de dados financeiros. |
 
 ---
 
