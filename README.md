@@ -67,7 +67,7 @@ Uma solução completa composta por App Mobile, Painel de Gestão e Backend.
 
 ## 📫 Vamos Conversar?
 
-Estou sempre aberto a novos desafios e parcerias. Se você tem um projeto em mente ou precisa de um especialista para compor seu time:
+Estou sempre aberto a novos desafios e parcerias. Se você tem um projeto em mente ou precisa de alguém para compor seu time:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leandro-campos0/" target="_blank">
